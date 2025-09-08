@@ -1,4 +1,4 @@
-# Preconditioned-SVD
+# Real-Time SVD Clutter Filtering using Preconditioning
 Corresponding paper to the following presentation at IUS 2025.
 
 📄 Talk/paper: [Real-Time SVD Clutter Filtering Using Preconditioning](https://github.com/sebftw/Preconditioned-SVD/blob/main/paper.pdf) (Id: 2569) 
