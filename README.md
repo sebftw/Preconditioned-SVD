@@ -1,7 +1,7 @@
 # Preconditioned-SVD
 Corresponding paper to the following presentation at IUS 2025.
 
-📄 Paper: [Real-Time SVD Clutter Filtering Using Preconditioning](https://github.com/sebftw/Preconditioned-SVD/blob/main/paper.pdf) (Id: 2569) 
+📄 Talk/paper: [Real-Time SVD Clutter Filtering Using Preconditioning](https://github.com/sebftw/Preconditioned-SVD/blob/main/paper.pdf) (Id: 2569) 
 
 🗓️ Session: Tuesday, Sept. 16, 15:07 - 15:30, MIS: Microvascular Imaging.
 
