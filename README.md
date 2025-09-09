@@ -24,3 +24,5 @@ A GeForce RTX 4090 GPU carried out the processing for in vivo rat kidney data, a
 
 The resulting rate for the eigendecomposition was 1120 Hz, which was made 60% faster through preconditioning.
 The imaging rate was 640 Hz after including all processing steps (RF data transfer, beamforming, motion correction, and SVD filtering). Thus, SVD-filtered power-Doppler imaging was performed in real-time using preconditioning, allowing live blood flow imaging at the bedside.
+
+Link to paper: [Real-Time SVD Clutter Filtering Using Preconditioning](https://github.com/sebftw/Preconditioned-SVD/blob/main/paper.pdf)
